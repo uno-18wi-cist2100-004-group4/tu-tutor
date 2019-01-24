@@ -1,5 +1,16 @@
-# tu-tutor
-Tu Tutoring | A business concept for CIST 2100
-Project contributors: David Lentsch, Justin Behrens, Rachel Pruch and Stephen Fugger
-Communication: Using the Slak App
+# Tu Tutoring
+A business concept for CIST 2100 at University of Nebraska Omaha
+
+`TODO: Logo to be inserted here`
+
+## Project Contributors
+* David Lentsch
+* Rachel Pruch
+* Stephen Fugger
+* Justin Behrens
+
+# Communication
+`TODO: Seperate into seperate COMMUNICATION.md file`
+
+Communication: Using the Slack App
 Collaboration habits: To be discussed further due to changing complex scheduling 
