@@ -1,5 +1,5 @@
-[Main](README.md) | _*Communication*_
------------------ | -----------------
+[Main](README.md) | _*Communication*_ | [Team Leaders](TeamLeads.md)
+----------------- | ----------------- | ----------------------------
 
 # Communication
 
