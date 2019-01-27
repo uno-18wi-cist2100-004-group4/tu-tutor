@@ -1,5 +1,5 @@
-_*Main*_ | [Communication](COMMUNICATION.md)
--------- | ---------------------------------
+_*Main*_ | [Communication](COMMUNICATION.md) | [Team Leaders](TeamLeads.md)
+-------- | --------------------------------- | ----------------------------
 
 # Tu Tutoring
 <p align="center">
