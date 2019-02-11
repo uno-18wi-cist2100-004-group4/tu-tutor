@@ -7,9 +7,9 @@
 Assignment | Team Lead  
 ---- | -----  
 T0 |  David Lentsch
-T1 | 
-T2 |
-T3 |
+T1 | Rachel Pruch 
+T2 | Stephen Fugger
+T3 | Justin Behrens
 T4 |
 T5 | 
 T6 | 
